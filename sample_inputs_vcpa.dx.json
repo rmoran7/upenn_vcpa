@@ -1,0 +1,10 @@
+{
+  "stage-common.reads": [{
+    "$dnanexus_link": {
+      "id": "file-G5JXyvj096YQ0fzb5F22f35z",
+      "project": "project-G5P5QQ803bq50F0x0PVb533F"
+    }
+  }],
+  "stage-common.filter_rg_arr": ["P-MAYO-PSP11414-UNK-UPN-10688.2", "P-MAYO-PSP11414-UNK-UPN-10688.4", "P-MAYO-PSP11414-UNK-UPN-10688.5", "P-MAYO-PSP11414-UNK-UPN-10688.6", "P-MAYO-PSP11414-UNK-UPN-10688.1", "P-MAYO-PSP11414-UNK-UPN-10688.8", "P-MAYO-PSP11414-UNK-UPN-10688.7", "P-MAYO-PSP11414-UNK-UPN-10688.3"],
+  "stage-common.sample_name_str": "P-MAYO-PSP11414-UNK-UPN-10688"
+}
